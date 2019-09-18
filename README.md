@@ -1,10 +1,11 @@
 # Live TV HD - IPTV player for Entertainment 24/7
 App URL: https://apptechgallery.page.link/iptvlivetv
-You will need this app to play the following m3u IPTV urls.
+You will need this app to play these following m3u IPTV urls.
+You can use any other m3u IPTV url from the internet to play within this app.
 
-To play this links, just install and open the above application, then click on URL button to import a link
+To play this following links, just install and open the above application, then click on URL button to import a link
 or download a .m3u file and load it using LOAD button.
-You can find the imported playlist in your device Download folder.
+You can find the imported playlist m3u file in your device Download folder.
 
 # IPTV Link
 Over 7500+ international channels are available now.
@@ -223,4 +224,4 @@ These are the combined playlist of several countries for this IPTV app.
 | Other         | `https://raw.githubusercontent.com/devsground/IPTV/master/category/other.m3u`
 
 ## Notice
-If you just found an error or have any suggestions on how to organize a playlist please send an [issue](https://github.com/freearhey/iptv/issues).
+If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)
