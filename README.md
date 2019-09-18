@@ -8,8 +8,11 @@ or download a .m3u file and load it using LOAD button.
 You can find the imported playlist m3u file in your device Download folder.
 
 # Images
-![VLC Network Panel](https://github.com/freearhey/iptv/raw/master/preview.png)
-
+![one](https://github.com/devsground/IPTV/blob/master/images/screenshot-1568809274051.jpg)
+![two](https://github.com/devsground/IPTV/blob/master/images/screenshot-1568809296025.jpg)
+![three](https://github.com/devsground/IPTV/blob/master/images/screenshot-1568809482425.jpg)
+![four](https://github.com/devsground/IPTV/blob/master/images/screenshot-1568809500513.jpg)
+![five](https://github.com/devsground/IPTV/blob/master/images/screenshot-1568809516793.jpg)
 # IPTV Link
 Over 7500+ international channels are available now.
 
